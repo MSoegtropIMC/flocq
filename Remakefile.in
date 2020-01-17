@@ -10,6 +10,7 @@ FILES = \
 	Core/FLX.v \
 	Core/FTZ.v \
 	Core/Generic_fmt.v \
+	Core/Registernames.v \
 	Core/Round_pred.v \
 	Core/Round_NE.v \
 	Core/Ulp.v \

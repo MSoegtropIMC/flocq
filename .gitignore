@@ -21,3 +21,6 @@ src/Version.v
 N*.cm*
 N*.native
 N*.o
+*.vos
+*.vok
+*.cache
